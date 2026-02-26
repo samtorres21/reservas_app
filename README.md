@@ -1,4 +1,5 @@
-#  Sistema Web de Reservas
+#  Sistema Web de Reservas de citas medicas.
+
 
 Sistema web de gestión de citas desarrollado con arquitectura cliente-servidor.  
 Permite a los usuarios registrarse, iniciar sesión y reservar citas en horarios disponibles.  
@@ -23,7 +24,6 @@ Incluye panel de administración para gestionar reservas.
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js + Express
 - Base de datos: MySQL / PostgreSQL
-- Autenticación: JWT (JSON Web Tokens)
 
 ---
 
